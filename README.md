@@ -15,13 +15,21 @@
 - **Hydroponic Farming:** Utilizing organic compost to produce fresh food, with surplus sales revenue funding solar energy systems.
   ![Home Resources Cycle](home-resources-cycle.png)
 
-- **Smart Greywater Recycling:** Reducing fresh water consumption by 50%.
+- **Smart Greywater Recycling:**
+English:
+​1. Greywater Sources: Domestic wastewater collection from kitchen sinks, laundry, and showers.
+​2. Treatment & Filtration: Multi-stage purification starting with grease and sediment traps, followed by constructed wetlands for bio-filtration, and finishing with UV sterilization.
+​3. Approved Uses: Dual-loop system: sterilized water for flush toilets and treated water for subsurface drip irrigation. Hydroponics remain strictly isolated and supplied by fresh water for safety.
+​العربية:
+​1. مصادر المياه الرمادية: تجميع مياه الصرف الصحي المنزلية الناتجة عن مغاسل المطبخ، الغسالات، وأحواض الاستحمام.
+​2. المعالجة والفلترة: تنقية متعددة المراحل تبدأ بمصائد الدهون والرواسب، تليها الأراضي الرطبة الصناعية (Wetlands) للترشيح الحيوي، وتنتهي بالتعقيم بالأشعة فوق البنفسجية (UV).
+​3. الاستخدامات المعتمدة: نظام مزدوج المسار: مياه معقمة بـ UV لمراحيض الـ (Flush)، ومياه معالجة للري بالتنقيط تحت السطحي. يتم فصل الزراعة المائية تماماً وتزويدها بمياه عذبة لضمان أعلى معايير السلامة.
+![إنفوجرافيك نظام معالجة وإعادة استخدام المياه الرمادية](greywater-system-infographic.png)
+
+
 - **Energy Independence:** Solar systems funded by the project’s agricultural returns.
 
-**العربية:** لا نقدم مجرد تقنيات؛ بل منظومة عمل وطنية تشرف عليها البلدية، ترتكز على أربعة محاور:
-- **إدارة النفايات:** تحويل سريع للمخلفات إلى سماد عضوي.
-- **الزراعة المائية:** استغلال السماد لإنتاج طعام طازج، وتخصيص عوائد بيع الفائض لتمويل أنظمة الطاقة الشمسية.
-- **تدوير المياه الرمادية:** توفير 50% من استهلاك المياه العذبة.
+
 - **الاستقلال الطاقي:** أنظمة شمسية ممولة ذاتياً من عوائد الإنتاج الزراعي.
 
 ---
