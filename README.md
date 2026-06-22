@@ -13,6 +13,8 @@
 **English:** Our platform transcends basic technology; it is a national operational system managed by the municipality, focusing on four pillars:
 - **Waste-to-Resource:** Rapid conversion of organic waste into compost.
 - **Hydroponic Farming:** Utilizing organic compost to produce fresh food, with surplus sales revenue funding solar energy systems.
+  ![Home Resources Cycle](home-resources-cycle.png)
+
 - **Smart Greywater Recycling:** Reducing fresh water consumption by 50%.
 - **Energy Independence:** Solar systems funded by the project’s agricultural returns.
 
